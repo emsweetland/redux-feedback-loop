@@ -22,7 +22,6 @@ Created a reflection/feedback form modeled after Prime's system.
 
 
 ## Usage
-How does someone use this application? Tell a user story here.
 
 - Feedback will be collected over 4 views. 
 1. How are you feeling today? 
